@@ -4,6 +4,13 @@
 在昨天啾啾鞋大大Po了一個換[小恐龍的影片](https://www.youtube.com/watch?v=besQJCZ20j4)
 裡面提到可以替換角色以及自動控制小恐龍 覺得實在太酷啦 就把它做成Chrome插建了 讓大家可以更方使用~~
 
+## 目前可用的功能
+1. 選擇馬力歐
+2. 選擇音速小子
+3. 選擇洛克人
+4. 選擇帽子Dino
+5. 自動控制小恐龍
+
 ## 怎麼使用
 1. 到Chrome擴充套件下載[chrome-dino-cosplay](https://chrome.google.com/webstore/detail/ghmdcodhffmkgjclaimakmogaacfekch)
 ![Imgur](https://i.imgur.com/1PyWZZp.png)
@@ -14,6 +21,11 @@
 5. 選擇你任何喜歡的角色並且按"Copy!!"
 6. 點選Console頁面
 7. 將剛剛複製的代碼貼上並且Enter!!
+
+## 未來目標與改善
+1. 原本我是希望選擇功能就可以直接操作頁面DOM
+    可是目前Chrome插件貌似不支持直接操作網址為Chrome://*底下的DOM
+    非常希望有神人可以告訴我怎麼實作這點! 謝謝
 
 ## 參考資料
 * https://textcraft.net/
