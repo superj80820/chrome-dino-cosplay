@@ -7,8 +7,6 @@
     "48": "icon.png"
   },
   "permissions": [
-    "tabs",
-    "<all_urls>",
     "clipboardWrite"
   ],
   "browser_action": {
