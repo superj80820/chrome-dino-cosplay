@@ -1,5 +1,5 @@
 # chrome-dino-cosplay
-![Imgur](https://i.imgur.com/N9n9WOW.gif)
+![Imgur](https://i.imgur.com/zFM8jWz.gif)
 
 在昨天啾啾鞋大大Po了一個換[小恐龍的影片](https://www.youtube.com/watch?v=besQJCZ20j4)
 裡面提到可以替換角色以及自動控制小恐龍 覺得實在太酷啦 就把它做成Chrome插建了 讓大家可以更方使用~~
